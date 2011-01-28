@@ -1,0 +1,1207 @@
+TSneakyInput 0.4.0
+v7
+r0
+t316661523.423268
+cCheck dependencies
+cProcessInfoPlistFile "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Info.plist" Resources/Info.plist
+cCpResource "build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Default.png" Resources/Default.png
+cCpResource "build/Debug-iphonesimulator/SneakyInput 0.4.0.app/fps_images.png" Resources/fps_images.png
+cCpResource "build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Icon.png" Resources/Icon.png
+cProcessPCH /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch.gch SneakyInput_0_4_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/main.o" /Users/kylcrow/temp/SneakyInput/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyInput_0_4_0AppDelegate.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/HelloWorldScene.o" /Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButton.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButtonSkinnedBase.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/ColoredCircleSprite.o" /Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystick.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedDPadExample.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedJoystickExample.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0" normal i386
+cGenerateDSYMFile "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app.dSYM" "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0"
+cTouch "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004C5A5EAD00000000000D2090
+t1280990893
+s860304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A4D1600000000001E06E0
+t1280986390
+s1967840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004C5A4CD700000000000022F0
+t1280986327
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004C5A4CD90000000000002650
+t1280986329
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004C5A4D4200000000000244B0
+t1280986434
+s148656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004C5A4E4D000000000000094F
+t1280986701
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004C5A4E4D0000000000000A61
+t1280986701
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004C5A4E4D0000000000009369
+t1280986701
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004C5A4E4D0000000000003C4A
+t1280986701
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004C5A4E570000000000019D60
+t1280986711
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/inttypes.h
+c000000004C57909100000000000027D1
+t1280807057
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/objc/objc.h
+c000000004C5A494F0000000000000A2F
+t1280985423
+s2607
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/stdlib.h
+c000000004C5790920000000000002DF5
+t1280807058
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/string.h
+c000000004C5790920000000000001731
+t1280807058
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/sys/time.h
+c000000004C5798ED0000000000001E17
+t1280809197
+s7703
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/lib/libz.dylib
+c000000004C5A495000000000000123E0
+t1280985424
+s74720
+
+N/Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.h
+c000000004D2FA71E0000000000000360
+t1294968606
+s864
+i"cocos2d.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.m
+c000000004D2FA71E0000000000000D82
+t1294968606
+s3458
+i"ColoredCircleSprite.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.h
+c000000004D2FA71E00000000000001E5
+t1294968606
+s485
+i"cocos2d.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.m
+c000000004D2FA71E00000000000009F6
+t1294968606
+s2550
+i"HelloWorldScene.h"
+i"SneakyJoystick.h"
+i"SneakyJoystickSkinnedJoystickExample.h"
+i"SneakyJoystickSkinnedDPadExample.h"
+i"SneakyButton.h"
+i"SneakyButtonSkinnedBase.h"
+i"ColoredCircleSprite.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.h
+c000000004D2FA71E0000000000000362
+t1294968606
+s866
+i"cocos2d.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.m
+c000000004D2FA71E0000000000000A87
+t1294968606
+s2695
+i"SneakyButton.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.h
+c000000004D2FA71E0000000000000290
+t1294968606
+s656
+i"cocos2d.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.m
+c000000004D2FA71E0000000000000BE9
+t1294968606
+s3049
+i"SneakyButtonSkinnedBase.h"
+i"SneakyButton.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.h
+c000000004D2FA71E0000000000000157
+t1294968606
+s343
+i<UIKit/UIKit.h>
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.m
+c000000004D2FA71E00000000000008DD
+t1294968606
+s2269
+i"SneakyInput_0_4_0AppDelegate.h"
+i"cocos2d.h"
+i"HelloWorldScene.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.h
+c000000004D2FA71E000000000000063E
+t1294968606
+s1598
+i"cocos2d.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.m
+c000000004D2FA71E0000000000000FE4
+t1294968606
+s4068
+i"SneakyJoystick.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.h
+c000000004D2FA71E0000000000000218
+t1294968606
+s536
+i"cocos2d.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.m
+c000000004D2FA71E00000000000007FF
+t1294968606
+s2047
+i"SneakyJoystickSkinnedBase.h"
+i"SneakyJoystick.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.h
+c000000004D2FA71E000000000000011E
+t1294968606
+s286
+i"SneakyJoystickSkinnedBase.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m
+c000000004D2FA71E00000000000002D4
+t1294968606
+s724
+i"SneakyJoystickSkinnedDPadExample.h"
+i"cocos2d.h"
+i"SneakyJoystick.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.h
+c000000004D2FA71E0000000000000127
+t1294968606
+s295
+i"SneakyJoystickSkinnedBase.h"
+
+N/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m
+c000000004D2FA71E000000000000031D
+t1294968606
+s797
+i"SneakyJoystickSkinnedJoystickExample.h"
+i"cocos2d.h"
+i"SneakyJoystick.h"
+i"ColoredCircleSprite.h"
+
+N/Users/kylcrow/temp/SneakyInput/Resources/Default.png
+c000000004D2FA71E00000000000077AB
+t1294968606
+s30635
+
+N/Users/kylcrow/temp/SneakyInput/Resources/Icon.png
+c000000004D2FA71E000000000000246F
+t1294968606
+s9327
+
+N/Users/kylcrow/temp/SneakyInput/Resources/fps_images.png
+c000000004D2FA71E000000000000183B
+t1294968606
+s6203
+
+N/Users/kylcrow/temp/SneakyInput/SneakyInput_0_4_0_Prefix.pch
+c000000004D2FA71E00000000000000C5
+t1294968606
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app
+t1294968723
+s272
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app.dSYM
+t1294968723
+s102
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Default.png
+t1294968721
+s30635
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Icon.png
+t1294968721
+s9327
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Info.plist
+t1294968720
+s638
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/PkgInfo
+t1294968720
+s8
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0
+t1294968723
+s1445884
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/fps_images.png
+t1294968721
+s6203
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004D2FA79000000000003C7240
+t1294968720
+s3961408
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/ColoredCircleSprite.o
+t1294968722
+s28820
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/HelloWorldScene.o
+t1294968722
+s51804
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButton.o
+t1294968722
+s62736
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButtonSkinnedBase.o
+t1294968722
+s27696
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyInput 0.4.0.LinkFileList
+c000000004D2FA79000000000000005EE
+t1294968720
+s1518
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyInput_0_4_0AppDelegate.o
+t1294968722
+s59956
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystick.o
+t1294968722
+s67024
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o
+t1294968722
+s23492
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedDPadExample.o
+t1294968722
+s17048
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedJoystickExample.o
+t1294968722
+s17328
+
+N/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/main.o
+t1294968721
+s6416
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCAction.h
+c000000004D2FA71E000000000000165C
+t1294968606
+s5724
+i<UIKit/UIKit.h>
+i<sys/time.h>
+i"ccTypes.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCActionManager.h
+c000000004D2FA71E0000000000001072
+t1294968606
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCAtlasNode.h
+c000000004D2FA71E0000000000000C4A
+t1294968606
+s3146
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCBitmapFontAtlas.h
+c000000004D2FA71E0000000000001533
+t1294968606
+s5427
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+i"Support/uthash.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCBlockSupport.h
+c000000004D2FA71E00000000000007A9
+t1294968606
+s1961
+i<Foundation/Foundation.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCCamera.h
+c000000004D2FA71E0000000000000B48
+t1294968606
+s2888
+i"CCNode.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCCameraAction.h
+c000000004D2FA71E00000000000009AA
+t1294968606
+s2474
+i"CCIntervalAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCCompatibility.h
+c000000004D2FA71E0000000000003891
+t1294968606
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCConfiguration.h
+c000000004D2FA71E0000000000000A89
+t1294968606
+s2697
+i<OpenGLES/ES1/gl.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCDirector.h
+c000000004D2FA71E00000000000040A8
+t1294968606
+s16552
+i"ccConfig.h"
+i"ccTypes.h"
+i"Support/EAGLView.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D2FA71E0000000000000B1A
+t1294968606
+s2842
+i<CoreGraphics/CGGeometry.h>
+i<objc/objc.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCEaseAction.h
+c000000004D2FA71E0000000000001671
+t1294968606
+s5745
+i"CCIntervalAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCGrabber.h
+c000000004D2FA71E00000000000005FA
+t1294968606
+s1530
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<UIKit/UIKit.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCGrid.h
+c000000004D2FA71E0000000000000E50
+t1294968606
+s3664
+i<UIKit/UIKit.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCGrid3DAction.h
+c000000004D2FA71E00000000000019DF
+t1294968606
+s6623
+i"CCGridAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCGridAction.h
+c000000004D2FA71E00000000000014A7
+t1294968606
+s5287
+i<UIKit/UIKit.h>
+i"CCIntervalAction.h"
+i"CCInstantAction.h"
+i"CCGrid.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCInstantAction.h
+c000000004D2FA71E0000000000001178
+t1294968606
+s4472
+i<UIKit/UIKit.h>
+i"CCAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCIntervalAction.h
+c000000004D2FA71E0000000000003266
+t1294968606
+s12902
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCLabel.h
+c000000004D2FA71E0000000000000A19
+t1294968606
+s2585
+i"CCTexture2D.h"
+i"CCSprite.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCLabelAtlas.h
+c000000004D2FA71E000000000000098E
+t1294968606
+s2446
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCLayer.h
+c000000004D2FA71E000000000000139E
+t1294968606
+s5022
+i<UIKit/UIKit.h>
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCTouchDelegateProtocol.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCMenu.h
+c000000004D2FA71E0000000000000AEE
+t1294968606
+s2798
+i<UIKit/UIKit.h>
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCMenuItem.h
+c000000004D2FA71E00000000000031FC
+t1294968606
+s12796
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCMotionStreak.h
+c000000004D2FA71E0000000000000B2A
+t1294968606
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCNode.h
+c000000004D2FA71E0000000000003E21
+t1294968606
+s15905
+i<OpenGLES/ES1/gl.h>
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCPVRTexture.h
+c000000004D2FA71E0000000000000CA5
+t1294968606
+s3237
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCPageTurn3DAction.h
+c000000004D2FA71E0000000000000644
+t1294968606
+s1604
+i"CCGrid3DAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCPageTurnTransition.h
+c000000004D2FA71E00000000000008F5
+t1294968606
+s2293
+i"CCTransition.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCParallaxNode.h
+c000000004D2FA71E000000000000075B
+t1294968606
+s1883
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCParticleExamples.h
+c000000004D2FA71E00000000000008C1
+t1294968606
+s2241
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCParticleSystem.h
+c000000004D2FA71E0000000000003694
+t1294968606
+s13972
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCPointParticleSystem.h
+c000000004D2FA71E0000000000000762
+t1294968606
+s1890
+i"CCParticleSystem.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCProgressTimer.h
+c000000004D2FA71E0000000000000B48
+t1294968606
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCProgressTimerActions.h
+c000000004D2FA71E000000000000088D
+t1294968606
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCIntervalAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCPropertyAction.h
+c000000004D2FA71E0000000000000941
+t1294968606
+s2369
+i<Foundation/Foundation.h>
+i"CCIntervalAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCProtocols.h
+c000000004D2FA71E0000000000000E35
+t1294968606
+s3637
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCQuadParticleSystem.h
+c000000004D2FA71E00000000000009A2
+t1294968606
+s2466
+i"CCParticleSystem.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCRadialTransition.h
+c000000004D2FA71E00000000000005F2
+t1294968606
+s1522
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCProgressTimerActions.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCRenderTexture.h
+c000000004D2FA71E0000000000000A68
+t1294968606
+s2664
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCRibbon.h
+c000000004D2FA71E0000000000000FCE
+t1294968606
+s4046
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i<OpenGLES/ES1/gl.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCScene.h
+c000000004D2FA71E0000000000000691
+t1294968606
+s1681
+i<UIKit/UIKit.h>
+i"CCNode.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCScheduler.h
+c000000004D2FA71E0000000000001982
+t1294968606
+s6530
+i<Foundation/Foundation.h>
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCSprite.h
+c000000004D2FA71E0000000000002EA9
+t1294968606
+s11945
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCSpriteFrame.h
+c000000004D2FA71E00000000000013F5
+t1294968606
+s5109
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D2FA71E0000000000000FF9
+t1294968606
+s4089
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCSpriteSheet.h
+c000000004D2FA71E0000000000001762
+t1294968606
+s5986
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTMXLayer.h
+c000000004D2FA71E0000000000001820
+t1294968606
+s6176
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D2FA71E00000000000008ED
+t1294968606
+s2285
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTMXTiledMap.h
+c000000004D2FA71E00000000000014EC
+t1294968606
+s5356
+i"CCAtlasNode.h"
+i"CCSpriteSheet.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTMXXMLParser.h
+c000000004D2FA71E00000000000015E1
+t1294968606
+s5601
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTexture2D.h
+c000000004D2FA71E000000000000262B
+t1294968606
+s9771
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTextureAtlas.h
+c000000004D2FA71E0000000000001477
+t1294968606
+s5239
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTextureCache.h
+c000000004D2FA71E0000000000001303
+t1294968606
+s4867
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGImage.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTileMapAtlas.h
+c000000004D2FA71E0000000000000B72
+t1294968606
+s2930
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTiledGridAction.h
+c000000004D2FA71E0000000000001A15
+t1294968606
+s6677
+i"CCGridAction.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTouchDelegateProtocol.h
+c000000004D2FA71E0000000000000AC5
+t1294968606
+s2757
+i<UIKit/UIKit.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTouchDispatcher.h
+c000000004D2FA71E0000000000000FC6
+t1294968606
+s4038
+i"CCTouchDelegateProtocol.h"
+i"Support/EAGLView.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTouchHandler.h
+c000000004D2FA71E0000000000000C9C
+t1294968606
+s3228
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/CCTransition.h
+c000000004D2FA71E0000000000002130
+t1294968606
+s8496
+i"CCScene.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/CCArray.h
+c000000004D2FA71E0000000000000C60
+t1294968606
+s3168
+i"ccCArray.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/CCFileUtils.h
+c000000004D2FA71E000000000000058C
+t1294968606
+s1420
+i<Foundation/Foundation.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/CCProfiling.h
+c000000004D2FA71E00000000000006E9
+t1294968606
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/CGPointExtension.h
+c000000004D2FA71E0000000000001E13
+t1294968606
+s7699
+i<CoreGraphics/CGGeometry.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/EAGLView.h
+c000000004D2FA71E00000000000018E9
+t1294968606
+s6377
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/ESRenderer.h
+c000000004D2FA71E00000000000005FB
+t1294968606
+s1531
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D2FA71E00000000000011A7
+t1294968606
+s4519
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/TGAlib.h
+c000000004D2FA71E0000000000000444
+t1294968606
+s1092
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/ccCArray.h
+c000000004D2FA71E0000000000003092
+t1294968606
+s12434
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/Support/uthash.h
+c000000004D2FA71E000000000000FB13
+t1294968606
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/ccConfig.h
+c000000004D2FA71E0000000000001ABD
+t1294968606
+s6845
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/ccMacros.h
+c000000004D2FA71E0000000000001740
+t1294968606
+s5952
+i<math.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/ccTypes.h
+c000000004D2FA71E0000000000001651
+t1294968606
+s5713
+i<objc/objc.h>
+i<CoreGraphics/CGGeometry.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Users/kylcrow/temp/SneakyInput/libs/cocos2d/cocos2d.h
+c000000004D2FA71E0000000000000E62
+t1294968606
+s3682
+i"ccConfig.h"
+i"CCBlockSupport.h"
+i"CCAction.h"
+i"CCCamera.h"
+i"CCCameraAction.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCTouchDispatcher.h"
+i"CCTouchDelegateProtocol.h"
+i"CCInstantAction.h"
+i"CCIntervalAction.h"
+i"CCEaseAction.h"
+i"CCLabel.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCParticleSystem.h"
+i"CCPointParticleSystem.h"
+i"CCQuadParticleSystem.h"
+i"CCParticleExamples.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteFrameCache.h"
+i"CCTextureCache.h"
+i"CCTransition.h"
+i"CCTextureAtlas.h"
+i"CCLabelAtlas.h"
+i"CCAtlasNode.h"
+i"CCEaseAction.h"
+i"CCTiledGridAction.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCGrid3DAction.h"
+i"CCGridAction.h"
+i"CCBitmapFontAtlas.h"
+i"CCParallaxNode.h"
+i"CCActionManager.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCPageTurn3DAction.h"
+i"CCPageTurnTransition.h"
+i"CCTexture2D.h"
+i"CCPVRTexture.h"
+i"CCTouchHandler.h"
+i"CCConfiguration.h"
+i"CCRadialTransition.h"
+i"CCProgressTimerActions.h"
+i"CCPropertyAction.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Support/OpenGL_Internal.h"
+i"Support/EAGLView.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Users/kylcrow/temp/SneakyInput/main.m
+c000000004D2FA71E0000000000000173
+t1294968606
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch.gch
+t1294968721
+s15232016
+
+NResources/Info.plist
+c000000004D2FA71E000000000000038E
+t1294968606
+s910
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316661520#316661520#0(0"0(0#1#0"8630965472#0"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/ColoredCircleSprite.o" /Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661522.275354
+e316661522.441919
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/ColoredCircleSprite.o
+x/Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.m316661522#316661522#0(0"0(0#0#61"/Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.m8625841760#2196"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/ColoredCircleSprite.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/ColoredCircleSprite.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/HelloWorldScene.o" /Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661521.987751
+e316661522.156327
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/HelloWorldScene.o
+x/Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.m316661521#316661522#0(0"0(0#0#57"/Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.m8629876128#2188"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/HelloWorldScene.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/HelloWorldScene.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButton.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661522.087688
+e316661522.275246
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButton.o
+x/Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.m316661522#316661522#0(0"0(0#0#54"/Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.m8628193824#2182"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/SneakyButton.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButton.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButtonSkinnedBase.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661522.156437
+e316661522.324462
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButtonSkinnedBase.o
+x/Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.m316661522#316661522#0(0"0(0#0#65"/Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.m8627069088#2204"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/SneakyButtonSkinnedBase.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyButtonSkinnedBase.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyInput_0_4_0AppDelegate.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661521.925554
+e316661522.087569
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyInput_0_4_0AppDelegate.o
+x/Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.m316661521#316661522#0(0"0(0#0#70"/Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.m8630494048#2214"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/SneakyInput_0_4_0AppDelegate.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyInput_0_4_0AppDelegate.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystick.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661522.324795
+e316661522.513051
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystick.o
+x/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.m316661522#316661522#0(0"0(0#0#56"/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.m8621249696#2186"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystick.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystick.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661522.442159
+e316661522.613363
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o
+x/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.m316661522#316661522#0(0"0(0#0#67"/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.m8627670752#2208"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedBase.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedBase.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedDPadExample.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661522.513163
+e316661522.696497
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedDPadExample.o
+x/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m316661522#316661522#0(0"0(0#0#74"/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m8616394816#2222"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedDPadExample.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedDPadExample.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedJoystickExample.o" /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661522.613474
+e316661522.753103
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedJoystickExample.o
+x/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m316661522#316661522#0(0"0(0#0#78"/Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m8633689408#2230"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/Classes/SneakyJoystickSkinnedJoystickExample.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyJoystickSkinnedJoystickExample.o"0#
+
+CCompileC "build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/main.o" /Users/kylcrow/temp/SneakyInput/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661521.924203
+e316661521.987558
+r1
+xCompileC
+xbuild/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/main.o
+x/Users/kylcrow/temp/SneakyInput/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/kylcrow/temp/SneakyInput/main.m316661521#316661521#0(0"0(0#0#38"/Users/kylcrow/temp/SneakyInput/main.m8631068864#2158"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -include /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch -c /Users/kylcrow/temp/SneakyInput/main.m -o "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/main.o"0#
+
+CCpResource "build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Default.png" Resources/Default.png
+s316661520.962664
+e316661521.002910
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SneakyInput 0.4.0.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png316661520#316661521#0(0"0(0#0#53"/Users/kylcrow/temp/SneakyInput/Resources/Default.png8628487520#518"    cd /Users/kylcrow/temp/SneakyInput    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kylcrow/temp/SneakyInput/Resources/Default.png "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app"0#
+
+CCpResource "build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Icon.png" Resources/Icon.png
+s316661520.964692
+e316661521.005903
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SneakyInput 0.4.0.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png316661520#316661521#0(0"0(0#0#50"/Users/kylcrow/temp/SneakyInput/Resources/Icon.png8628331904#515"    cd /Users/kylcrow/temp/SneakyInput    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kylcrow/temp/SneakyInput/Resources/Icon.png "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app"0#
+
+CCpResource "build/Debug-iphonesimulator/SneakyInput 0.4.0.app/fps_images.png" Resources/fps_images.png
+s316661520.963440
+e316661521.004556
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/SneakyInput 0.4.0.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png316661520#316661521#0(0"0(0#0#56"/Users/kylcrow/temp/SneakyInput/Resources/fps_images.png8628428064#521"    cd /Users/kylcrow/temp/SneakyInput    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kylcrow/temp/SneakyInput/Resources/fps_images.png "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app"0#
+
+CGenerateDSYMFile "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app.dSYM" "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0"
+s316661523.186224
+e316661523.419868
+r1
+xGenerateDSYMFile
+x/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app.dSYM
+x/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0
+lSLF07#2@143"GenerateDSYMFile "build/Debug-iphonesimulator/SneakyInput 0.4.0.app.dSYM" "build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0"316661523#316661523#0(0"0(0#0#99"/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.08628450080#458"    cd /Users/kylcrow/temp/SneakyInput    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0" -o "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app.dSYM"0#
+
+CLd "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0" normal i386
+s316661522.753207
+e316661523.186105
+r1
+xLd
+x/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0
+xnormal
+xi386
+lSLF07#2@104"Link /Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0316661522#316661523#0(0"0(0#0#0"8631402400#1131"    cd /Users/kylcrow/temp/SneakyInput    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -filelist "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/Objects-normal/i386/SneakyInput 0.4.0.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -o "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/SneakyInput 0.4.0"0#
+
+CProcessInfoPlistFile "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Info.plist" Resources/Info.plist
+s316661520.958898
+e316661520.962571
+r1
+xProcessInfoPlistFile
+x/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist316661520#316661520#0(0"0(0#0#52"/Users/kylcrow/temp/SneakyInput/Resources/Info.plist8630084096#546"    cd /Users/kylcrow/temp/SneakyInput    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app/Info.plist"0#
+
+CProcessPCH /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch.gch SneakyInput_0_4_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316661521.006015
+e316661521.924085
+r1
+xProcessPCH
+x/var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch.gch
+xSneakyInput_0_4_0_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile SneakyInput_0_4_0_Prefix.pch316661521#316661521#0(0"0(0#0#60"/Users/kylcrow/temp/SneakyInput/SneakyInput_0_4_0_Prefix.pch8628060800#2045"    cd /Users/kylcrow/temp/SneakyInput    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-generated-files.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-own-target-headers.hmap" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-all-target-headers.hmap" -iquote "/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/SneakyInput 0.4.0-project-headers.hmap" -Wall -F/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator -I/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/include "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources/i386" "-I/Users/kylcrow/temp/SneakyInput/build/SneakyInput 0.4.0.build/Debug-iphonesimulator/SneakyInput 0.4.0.build/DerivedSources" -c /Users/kylcrow/temp/SneakyInput/SneakyInput_0_4_0_Prefix.pch -o /var/folders/0Q/0Q1msppMFZ0WGdLrMpvSrk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SneakyInput_0_4_0_Prefix-cqobdeqworokoqhgueerxnfddqdn/SneakyInput_0_4_0_Prefix.pch.gch0#
+
+CTouch "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app"
+s316661523.419970
+e316661523.423220
+r1
+xTouch
+x/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app
+lSLF07#2@87"Touch /Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app316661523#316661523#0(0"0(0#0#0"8627762944#338"    cd /Users/kylcrow/temp/SneakyInput    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c "/Users/kylcrow/temp/SneakyInput/build/Debug-iphonesimulator/SneakyInput 0.4.0.app"0#
+

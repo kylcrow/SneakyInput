@@ -19,8 +19,12 @@
 	CGPoint velocity;
 	BOOL autoCenter;
 	BOOL isDPad;
-	BOOL hasDeadzone; //Turns Deadzone on/off for joystick, always YES if ifDpad == YES
-	NSUInteger numberOfDirections; //Used only when isDpad == YES
+	BOOL hasDeadzone; //Turns Deadzone on/off for joystick, always YES if if Dpad == YES
+	NSUInteger numberOfDirections; //Used only when isDpad == YES 
+	
+	// Assuming 8 direction DPad
+	NSInteger direction;
+	
 	
 	float joystickRadius;
 	float thumbRadius;
@@ -39,6 +43,7 @@
 @property (nonatomic, assign) BOOL isDPad;
 @property (nonatomic, assign) BOOL hasDeadzone;
 @property (nonatomic, assign) NSUInteger numberOfDirections;
+@property (nonatomic, assign) NSInteger direction;
 
 @property (nonatomic, assign) float joystickRadius;
 @property (nonatomic, assign) float thumbRadius;

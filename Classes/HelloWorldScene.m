@@ -41,16 +41,24 @@
 	if( (self=[super init] )) {
 		self.isTouchEnabled = YES;
 		
-		SneakyJoystickSkinnedBase *leftJoy = [[[SneakyJoystickSkinnedBase alloc] init] autorelease];
+		SneakyJoystickSkinnedDPadExample *leftJoy = [[[SneakyJoystickSkinnedDPadExample alloc] init] autorelease];
 		leftJoy.position = ccp(64,64);
-		leftJoy.backgroundSprite = [ColoredCircleSprite circleWithColor:ccc4(255, 0, 0, 128) radius:64];
-		leftJoy.thumbSprite = [ColoredCircleSprite circleWithColor:ccc4(0, 0, 255, 200) radius:32];
+//		leftJoy.backgroundSprite = [CCSprite spriteWithFile:@"joystickdpadback.png"];
+		leftJoy.thumbSprite = [CCSprite spriteWithFile:@"joystickdpadfront.png"];
 		leftJoy.joystick = [[SneakyJoystick alloc] initWithRect:CGRectMake(0,0,128,128)];
 		leftJoystick = [leftJoy.joystick retain];
 		[self addChild:leftJoy];
+
+		SneakyJoystickSkinnedDPadExample *rightJoy = [[[SneakyJoystickSkinnedBase alloc] init] autorelease];
+		rightJoy.position = ccp(256,64);
+		rightJoy.backgroundSprite = [CCSprite spriteWithFile:@"joystickdpadback.png"];
+		rightJoy.thumbSprite = [CCSprite spriteWithFile:@"joystickdpadfront.png"];
+		rightJoy.joystick = [[SneakyJoystick alloc] initWithRect:CGRectMake(0,0,128,128)];
+		rightJoystick = [rightJoy.joystick retain];
+		[self addChild:rightJoy];
 		
 		SneakyButtonSkinnedBase *rightBut = [[[SneakyButtonSkinnedBase alloc] init] autorelease];
-		rightBut.position = ccp(448,32);
+		rightBut.position = ccp(150,32);
 		rightBut.defaultSprite = [ColoredCircleSprite circleWithColor:ccc4(255, 255, 255, 128) radius:32];
 		rightBut.activatedSprite = [ColoredCircleSprite circleWithColor:ccc4(255, 255, 255, 255) radius:32];
 		rightBut.pressSprite = [ColoredCircleSprite circleWithColor:ccc4(255, 0, 0, 255) radius:32];

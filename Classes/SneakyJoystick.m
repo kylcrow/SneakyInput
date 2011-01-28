@@ -35,7 +35,8 @@ hasDeadzone,
 numberOfDirections,
 joystickRadius,
 thumbRadius,
-deadRadius;
+deadRadius,
+direction;
 
 - (void) dealloc
 {
@@ -50,9 +51,9 @@ deadRadius;
 		degrees = 0.0f;
 		velocity = CGPointZero;
 		autoCenter = YES;
-		isDPad = NO;
+		isDPad = YES;
 		hasDeadzone = NO;
-		numberOfDirections = 4;
+		numberOfDirections = 8;
 		
 		self.joystickRadius = rect.size.width/2;
 		self.thumbRadius = 32.0f;
@@ -60,6 +61,7 @@ deadRadius;
 		
 		//Cocos node stuff
 		position_ = rect.origin;
+		direction = -1;
 }
 	return self;
 }
@@ -113,7 +115,7 @@ deadRadius;
 	degrees = angle * SJ_RAD2DEG;
 	
 	// Update the thumb's position
-	stickPosition = ccp(dx, dy);
+	stickPosition = ccp(dx/2, dy/2);   // This is where you change the distance of the thumb sprite from the middle of joystick
 }
 
 - (void) setIsDPad:(BOOL)b
@@ -167,11 +169,33 @@ deadRadius;
 {
 	CGPoint location = [[CCDirector sharedDirector] convertToGL:[touch locationInView:[touch view]]];
 	location = [self convertToNodeSpace:location];
+	//NSLog(@"%f", ceil(stickPosition.y));
+
+	if (ceil(stickPosition.x) == 0 && ceil(stickPosition.y) == 25)
+		direction = 0;
+	if (ceil(stickPosition.x) == 18 && ceil(stickPosition.y) == 18)
+		direction = 1;
+	if (ceil(stickPosition.x) == 25 && ceil(stickPosition.y) == 0)
+		direction = 2;
+	if (ceil(stickPosition.x) == 18 && ceil(stickPosition.y) == -17)
+		direction = 3;
+	if (ceil(stickPosition.x) == 1 && ceil(stickPosition.y) == -25)
+		direction = 4;
+	if (ceil(stickPosition.x) == -17 && ceil(stickPosition.y) == -17)
+		direction = 5;
+	if (ceil(stickPosition.x) == -25 && ceil(stickPosition.y) == 0)
+		direction = 6;
+	if (ceil(stickPosition.x) == -17 && ceil(stickPosition.y) == 18)
+		direction = 7;
+	
+	//NSLog(@"direction: %i", direction);
+	
 	[self updateVelocity:location];
 }
 
 - (void)ccTouchEnded:(UITouch *)touch withEvent:(UIEvent *)event
 {
+	direction = -1;
 	CGPoint location = CGPointZero;
 	if(!autoCenter){
 		CGPoint location = [[CCDirector sharedDirector] convertToGL:[touch locationInView:[touch view]]];

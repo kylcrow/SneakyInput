@@ -17,6 +17,7 @@
 @interface HelloWorld : CCLayer
 {
 	SneakyJoystick *leftJoystick;
+	SneakyJoystick *rightJoystick;
 	SneakyButton *rightButton;
 }
 

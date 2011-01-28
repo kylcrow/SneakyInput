@@ -1,0 +1,63 @@
+TSneakyInput 0.4.0
+v7
+r1
+
+N/Users/kylcrow/temp/SneakyInput/Resources/Default.png
+c000000004D2FA71E00000000000077AB
+t1294968606
+s30635
+
+N/Users/kylcrow/temp/SneakyInput/Resources/Icon.png
+c000000004D2FA71E000000000000246F
+t1294968606
+s9327
+
+N/Users/kylcrow/temp/SneakyInput/Resources/fps_images.png
+c000000004D2FA71E000000000000183B
+t1294968606
+s6203
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app
+t2
+s0
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app/Contents/Info.plist
+t2
+s0
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app/Contents/Resources/fps_images.png
+t2
+s0
+
+NResources/Info.plist
+c000000004D2FA71E000000000000038E
+t1294968606
+s910
+
+CCpResource "build/Debug/SneakyInput 0.4.0.app/Contents/Resources/Default.png" Resources/Default.png
+r0
+
+CCpResource "build/Debug/SneakyInput 0.4.0.app/Contents/Resources/Icon.png" Resources/Icon.png
+r0
+
+CCpResource "build/Debug/SneakyInput 0.4.0.app/Contents/Resources/fps_images.png" Resources/fps_images.png
+r0
+
+CProcessInfoPlistFile "/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app/Contents/Info.plist" Resources/Info.plist
+r0
+
+CTouch "/Users/kylcrow/temp/SneakyInput/build/Debug/SneakyInput 0.4.0.app"
+r0
+

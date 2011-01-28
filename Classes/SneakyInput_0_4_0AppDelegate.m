@@ -35,7 +35,7 @@
 	CCDirector *director = [CCDirector sharedDirector];
 	
 	// Sets landscape mode
-	[director setDeviceOrientation:kCCDeviceOrientationLandscapeLeft];
+//	[director setDeviceOrientation:kCCDeviceOrientationLandscapeLeft];
 	
 	// Turn on display FPS
 	[director setDisplayFPS:YES];
